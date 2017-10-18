@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionSingletonTest", "FunctionSingletonTest\FunctionSingletonTest.csproj", "{3F4D40E3-2A11-4D7C-8420-C62B404B3BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4D40E3-2A11-4D7C-8420-C62B404B3BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4D40E3-2A11-4D7C-8420-C62B404B3BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4D40E3-2A11-4D7C-8420-C62B404B3BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4D40E3-2A11-4D7C-8420-C62B404B3BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB550E2-D5F6-4BF8-B361-62ECB7441D7B}
+	EndGlobalSection
+EndGlobal
